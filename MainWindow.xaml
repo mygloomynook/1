@@ -10,7 +10,7 @@
         <StackPanel>
             <Button Background="Blue" Content="1" />
             <Button Background="White" Content="2" />
-            <Button Background="Red" Content="5" />
+            <Button Background="Red" Content="3" />
         </StackPanel>
     </Grid>
 </Window>
